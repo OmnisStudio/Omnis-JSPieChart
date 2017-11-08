@@ -1,0 +1,8 @@
+;  Enter your initialization code here
+
+Do iData.$define(iValue,iLegend)
+Do iData.$add(10,'Alan - %%')
+Do iData.$add(20,'Brian - %%')
+Do iData.$add(50,'Charlie - %%')
+Do iData.$add(60,'Debbie - %%')
+Do iData.$add(40,'Ernie - %%')
